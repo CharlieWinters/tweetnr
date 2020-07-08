@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "tweetnr-launcher",
+    "displayName": "TweetnrLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "tweetnr-nerdlet"
+}

@@ -1,0 +1,27 @@
+{
+    "private": true,
+    "name": "tweetnr",
+    "version": "1.22.1",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "3c7b2883-ad1c-4050-a020-94991daa4c9e"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3",
+        "react-twitter-embed": "^2.0.4",
+        "react-twitter-widgets": "^1.9.5"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ],
+    "devDependencies": {
+        "babel-runtime": "^6.26.0"
+    }
+}
